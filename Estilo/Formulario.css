@@ -1,0 +1,50 @@
+body{
+    margin: 15px 70px;
+    background-image: url(img/Fondo3.jpg);
+    color: white;
+    text-align: justify;
+    font-size: large;
+}
+header{
+    background-image: url(img/Banner1.jpg);
+    background-size: cover;
+    height: 550px;
+    margin: -15px -70px;
+}
+header>h1{
+    padding: 70px 130px;
+    text-align: right;
+    font-size: 50px;
+    margin: 0%;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: rgba(0, 89, 255, 0.822);
+}
+footer, h1{
+    text-align: center;
+}
+h2{
+    display: inline block;
+}
+strong{
+    display: block;
+    text-align: right;
+}
+form{
+    margin: auto;
+    width: 750px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding:  10px 30px;
+    background-color: rgba(255, 255, 255, 0.295);
+    text-align: center;
+}
+textarea{
+    width: 740px;
+}
+label, input{
+    margin: 5px;
+}
